@@ -1,1 +1,1 @@
-# Cyber-cafe-management-system-in-C-and-C-
+# Cyber cafe management system in C and C++
